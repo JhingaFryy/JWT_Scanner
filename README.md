@@ -26,5 +26,12 @@ python jwt.py -t <JWT_TOKEN> -u https://api.example.com/protected
 ## License
 MIT License
 
-##Donate me a Coffee:
-PayPal: pardeshijatin1998@gmail.com
+## 📜 Disclaimer
+This tool is for educational and ethical testing purposes only. **Do not use it on unauthorized systems.**
+
+## 👨‍💻 Author
+**Jatin** - Bug Bounty Hunter | Cybersecurity Enthusiast 🚀
+
+
+## Donate a Coffee:
+Paypal: pardeshijatin1998@gmail.com
