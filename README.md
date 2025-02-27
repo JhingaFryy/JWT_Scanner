@@ -25,3 +25,6 @@ python jwt_vuln_scanner.py -t <JWT_TOKEN> -u https://api.example.com/protected
 
 ## License
 MIT License
+
+##Donate me a Coffee:
+PayPal: pardeshijatin1998@gmail.com
